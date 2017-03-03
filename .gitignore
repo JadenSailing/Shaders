@@ -1,3 +1,12 @@
+#################
+## Unity3D
+#################
+Library/
+Temp/
+Assets/UnityVS/
+*.sln
+*.csproj
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
